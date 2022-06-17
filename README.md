@@ -6,4 +6,4 @@
 
 ## Chapter 2 "Getting Started"
 
-- Insertion sort
+[chapter 2 md](./Chapter2/Chapter2.md)
